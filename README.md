@@ -32,7 +32,7 @@ I am a passionate DevOps Engineer with over 5 years of experience in automating 
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [John Doe](https://linkedin.com/in/johndoe)
-- **Email:** johndoe@example.com
+- **LinkedIn:** [Sanket Majale](https://linkedin.com/in/sanket-majale)
+- **Email:** sanketmajale1008@gmail.com
 
 Feel free to explore my repositories and projects. Let's collaborate and build something amazing together!
