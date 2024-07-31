@@ -5,9 +5,7 @@ I am a passionate DevOps Engineer with over 3 years of experience in automating 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://media.giphy.com/media/U3qvn9E0lqF8U/giphy.gif" width="80" height="80" alt="Kubernetes" />
-  </a>
+   <img src="https://media.giphy.com/media/3o6ZtpxmZkI5a7Twmc/giphy.gif" width="80" height="80" alt="Kubernetes" title="Kubernetes" />
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://media.giphy.com/media/Yh3dGcMyzNBUQ/giphy.gif" width="80" height="80" alt="Azure" />
   </a>
