@@ -1,6 +1,6 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Sanket Majale 👋
 
-I am a passionate DevOps Engineer with over 5 years of experience in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes. I thrive in collaborative environments and am committed to continuous improvement and learning.
+I am a passionate DevOps Engineer with over 3 years of experience in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes. I thrive in collaborative environments and am committed to continuous improvement and learning.
 
 ## 🛠️ Technologies & Tools
 
@@ -18,17 +18,6 @@ I am a passionate DevOps Engineer with over 5 years of experience in automating 
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
-
-## 🚀 Projects & Contributions
-
-### 🌟 Featured Projects
-
-- **[Project A](https://github.com/johndoe/project-a):** Automated deployment pipeline for a web application, reducing deployment time by 60%.
-- **[Project B](https://github.com/johndoe/project-b):** Developed a monitoring solution with Prometheus and Grafana, improving incident response times.
-
-### 📈 Contributions
-
-- **[Repository Name](https://github.com/johndoe/repository-name):** Description of contributions or project.
 
 ## 📫 Let's Connect!
 
