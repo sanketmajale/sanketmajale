@@ -5,18 +5,42 @@ I am a passionate DevOps Engineer with over 3 years of experience in automating 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="80" height="80" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="50" height="50" alt="Azure DevOps" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="50" height="50" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="50" height="50" alt="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="50" height="50" alt="Helm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50" alt="Jira" />
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://media.giphy.com/media/U3qvn9E0lqF8U/giphy.gif" width="80" height="80" alt="Kubernetes" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://media.giphy.com/media/Yh3dGcMyzNBUQ/giphy.gif" width="80" height="80" alt="Azure" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+    <img src="https://media.giphy.com/media/SroXIpUxpOefq/giphy.gif" width="80" height="80" alt="Azure DevOps" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://media.giphy.com/media/VbAFrrD3RQQ2w/giphy.gif" width="80" height="80" alt="Terraform" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://media.giphy.com/media/DBLxomUqfJmhNfD0hS/giphy.gif" width="80" height="80" alt="Docker" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://media.giphy.com/media/Xw9eJj6iZyQQU9VrBy/giphy.gif" width="80" height="80" alt="Linux" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://media.giphy.com/media/ZF7rhnsedmDhOBQaSQ/giphy.gif" width="80" height="80" alt="Git" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://media.giphy.com/media/XDaR0OWf8EZiG/giphy.gif" width="80" height="80" alt="Bash" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://media.giphy.com/media/l3q2wJsC23ikwhVp6/giphy.gif" width="80" height="80" alt="Jenkins" />
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://media.giphy.com/media/dY9WzNfOW8yxaUl1xg/giphy.gif" width="80" height="80" alt="Grafana" />
+  </a>
+  <a href="https://helm.sh/" target="_blank">
+    <img src="https://media.giphy.com/media/jn44VEl6Q4npu/giphy.gif" width="80" height="80" alt="Helm" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://media.giphy.com/media/eFug7rzk4PwoE/giphy.gif" width="80" height="80" alt="Jira" />
+  </a>
 </p>
 
 ## 📫 Let's Connect!
