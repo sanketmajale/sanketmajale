@@ -1,6 +1,6 @@
 # Hi there, I'm Sanket Majale 👋
 
-I am a passionate DevOps Engineer with over 3 years of experience in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes. I thrive in collaborative environments and am committed to continuous improvement and learning.
+I am a passionate DevOps Engineer with over 3+ years of experience in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD, and DevOps processes. I thrive in collaborative environments and am committed to continuous improvement and learning.
 
 ## 🛠️ Technologies & Tools
 
